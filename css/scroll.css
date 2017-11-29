@@ -1,0 +1,43 @@
+h1 {color=red;}
+body {
+  margin:0;
+  margin-top:calc(100vh + 18px);
+}
+h2 { 
+  text-align:center;
+  position:relative;
+  height:37px;
+  top:50%;
+  margin-top:-18px;
+  font-family: Arial;
+  color:white;
+}
+#un, #deux, #trois {
+  width:100%;
+  height:100vh;
+  background:#1abc9c;
+/*   margin-bottom:4px; */
+  background-size:cover;
+}
+
+#deux {
+  height:150vh;
+  background:lightblue;
+    background:url("https://images.unsplash.com/photo-1447703693928-9cd89c8d3ac5?crop=entropy&dpr=2&fit=crop&fm=jpg&h=700&ixjsv=2.1.0&ixlib=rb-0.3.5&q=50&w=1425") center;
+  background-size:cover;
+}
+
+#un {
+  top:0;
+  width:100%;
+  position:fixed;
+/*   background:url("https://images.unsplash.com/photo-1438893761775-f1db119d27b2?ixlib=rb-0.3.5&q=80&fm=jpg&crop=entropy&w=1080&fit=max&s=78cca69182730f8e3a393b946249d8cf") center; */
+  background-size:cover;
+  z-index:-100;
+}
+
+#trois {
+/*   background:url("https://images.unsplash.com/photo-1455098934982-64c622c5e066?ixlib=rb-0.3.5&q=80&fm=jpg&crop=entropy&w=1080&fit=max&s=8eae6295f7c95422742a20ca784bffc0") center; */
+  background:#3498db;
+  background-size:cover;
+}
