@@ -71,7 +71,7 @@ img:last-of-type {
 }
 
 .slide:nth-child(2n) .title {
-  margin-left: 0;
+  margin-left: auto;
   margin-right: auto;
 }
 
