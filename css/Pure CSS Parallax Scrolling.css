@@ -97,7 +97,8 @@ img:last-of-type {
 }
 
 #slide1:before {
-  background-image: url("https://raw.githubusercontent.com/shawn-j/Origin_website/master/images/origin_ether_trans.png");
+  background-image: url("https://raw.githubusercontent.com/shawn-j/Origin_website/master/images/origin2.jpg");
+  opacity: .5;
   transform: translateZ(-1px) scale(2);
   z-index:-1;
 }
