@@ -103,7 +103,7 @@ img:last-of-type {
 }
 
 #slide2 {
-  background-image: url("/images/origin_project1.jpg");
+  background-image: url("https://raw.githubusercontent.com/shawn-j/Origin_website/master/images/origin_project1.jpg");
   background-attachment: fixed;
 }
 
@@ -114,5 +114,5 @@ img:last-of-type {
 }
 
 #slide4 {
-  background: #222;
+  background-image: url("https://raw.githubusercontent.com/shawn-j/Origin_website/master/images/social.jpg");
 }
