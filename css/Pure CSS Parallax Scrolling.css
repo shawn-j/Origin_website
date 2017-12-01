@@ -78,6 +78,8 @@ p {
   text-shadow: 0 2px 2px #000;
 }
 
+.white {color: #fff;}
+
 #title {
   background-image: url("https://raw.githubusercontent.com/shawn-j/Origin_website/master/images/origin.jpg");
    background-attachment: fixed;  
