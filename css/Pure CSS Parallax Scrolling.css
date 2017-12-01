@@ -89,8 +89,8 @@ p {
 
 #slide2 {
   background-image: url("https://github.com/shawn-j/Origin_website/blob/master/images/building_global_network.jpg?raw=true");
-    opacity: .3
-        z-index:1;
+    opacity: .3;
+    z-index:1;
   background-attachment: fixed;
 }
 
