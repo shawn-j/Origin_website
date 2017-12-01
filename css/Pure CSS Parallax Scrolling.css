@@ -1,4 +1,4 @@
-@import url(https://fonts.googleapis.com/css?family=Nunito);
+@import url(https://fonts.googleapis.com/css?family=Exo+2);
 
 html {
   height: 100%;
@@ -13,11 +13,11 @@ body {
   height: 100%;
   overflow-y: scroll;
   overflow-x: hidden;
-  font-family: Nunito;
+  font-family: 'Exo 2', sans-serif;
 }
 
 h1 {
-   font-size: 250%
+   font-size: 150%
 }
 
 p {
@@ -90,7 +90,8 @@ p {
 #slide2 {
   background-image: url("https://github.com/shawn-j/Origin_website/blob/master/images/building_global_network.jpg?raw=true");
     opacity: .3;
-    z-index:1;
+    transform: translateZ(1px);
+    z-index: 1;
   background-attachment: fixed;
 }
 
