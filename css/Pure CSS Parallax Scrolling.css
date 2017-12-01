@@ -1,4 +1,6 @@
-@import url(https://fonts.googleapis.com/css?family=Exo+2);
+@import url(https://fonts.googleapis.com/css?family=Open+Sans+Condensed:300);
+@import url(https://fonts.googleapis.com/css?family=Heebo);
+
 
 html {
   height: 100%;
@@ -13,11 +15,12 @@ body {
   height: 100%;
   overflow-y: scroll;
   overflow-x: hidden;
-  font-family: 'Exo 2', sans-serif;
+  font-family: 'Heebo', sans-serif;
 }
 
 h1 {
    font-size: 150%
+   font-family: 'Open Sans Condensed', sans-serif;
 }
 
 p {
@@ -90,8 +93,7 @@ p {
 #slide2 {
   background-image: url("https://github.com/shawn-j/Origin_website/blob/master/images/building_global_network.jpg?raw=true");
     opacity: .3;
-    transform: translateZ(1px);
-    z-index: 1;
+    z-index: 10;
   background-attachment: fixed;
 }
 
