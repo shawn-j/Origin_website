@@ -82,14 +82,15 @@ p {
 
 #slide1:before {
   background-image: url("https://raw.githubusercontent.com/shawn-j/Origin_website/master/images/origin2.jpg");
-  opacity: .5;
+  opacity: .2;
   transform: translateZ(-1px) scale(2);
   z-index:-1;
 }
 
 #slide2 {
   background-image: url("https://github.com/shawn-j/Origin_website/blob/master/images/building_global_network.jpg?raw=true");
-    opacity: .5
+    opacity: .3
+        z-index:1;
   background-attachment: fixed;
 }
 
