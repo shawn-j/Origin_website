@@ -82,13 +82,14 @@ p {
 
 #title {
   background-image: url("https://github.com/shawn-j/Origin_website/blob/master/images/origin.gif?raw=true");
-   background-attachment: fixed;  
+     transform: translateZ(-1px) scale(2);
+  z-index:-1;
+  background-attachment: fixed;  
 }
 
 #slide1:before {
   background-image: url("https://raw.githubusercontent.com/shawn-j/Origin_website/master/images/ether.png");
-  transform: translateZ(-1px) scale(2);
-  z-index:-1;
+  z-index: 1;
 }
 
 #slide2 {
