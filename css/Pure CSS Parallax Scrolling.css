@@ -81,7 +81,7 @@ p {
 .white {color: #fff;}
 
 #title {
-  background-clip: url("https://raw.githubusercontent.com/shawn-j/Origin_website/master/video/origin.mp4");
+  background-image: url("https://github.com/shawn-j/Origin_website/blob/master/images/origin.gif?raw=true");
    background-attachment: fixed;  
 }
 
