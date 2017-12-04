@@ -13,7 +13,7 @@ body {
 	perspective: 1px;
 	transform-style: preserve-3d;
   height: 100%;
-  //overflow-y: scroll;
+  overflow-y: scroll;
   //overflow-x: hidden;
   font-family: 'Heebo', sans-serif;
 }
