@@ -102,7 +102,12 @@ p {
     z-index:1;
 }
 
-#TOP {text-align: center; transform-origin: center;}
+#TOP {
+    text-align: center;
+    transform-origin: center;
+    transform-style: preserve-3d;
+    z-index: 2;
+}
 
 
 #title {
