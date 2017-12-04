@@ -19,7 +19,7 @@ body {
 }
 
 h1 {
-   font-size: 150%
+   font-size: 150%;
    font-family: 'Open Sans Condensed', sans-serif;
 }
 
@@ -40,11 +40,11 @@ p {
 
 .slide {
   position: relative;
-  //padding: 25vh 10%;
+  /*padding: 25vh 10%;*/
   min-height: 100vh;
   width: 100vw;
   box-sizing: border-box;
-  box-shadow: 0 -1px 10px rgba(0, 0, 0, .7);
+  /*box-shadow: 0 -1px 10px rgba(0, 0, 0, .7);*/
 	transform-style: inherit;
 }
 
@@ -61,9 +61,9 @@ p {
 .title {
   width: 50%;
   padding: 5%;
-  //border-radius: 5px;
-  //background: rgba(240,230,220, .7);
-  //box-shadow: 0 0 8px rgba(0, 0, 0, .7);
+  /*border-radius: 5px;
+  background: rgba(240,230,220, .7);
+  box-shadow: 0 0 8px rgba(0, 0, 0, .7);*/
 }
 
 .slide:nth-child(2n) .title {
