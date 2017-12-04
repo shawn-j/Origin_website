@@ -27,7 +27,7 @@ video {
         margin: 0;
         transform-style: preserve-3d;
         transform: none;
-        z-index: inherit
+        z-index: auto;
 }
 
 p {
