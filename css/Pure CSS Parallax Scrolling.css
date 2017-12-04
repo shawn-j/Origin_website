@@ -89,6 +89,16 @@ p {
 
 .white {color: #fff;}
 
+#wrapper {
+    position: relative;
+}
+#wrapper div, #wrapper video {
+    position: absolute;
+    top: 0;
+}
+
+
+
 #title {
   
      transform: translateZ(-1px) scale(2);
