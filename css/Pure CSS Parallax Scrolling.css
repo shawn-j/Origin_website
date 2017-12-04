@@ -81,7 +81,7 @@ p {
 .white {color: #fff;}
 
 #title {
-  background-image: url("https://github.com/shawn-j/Origin_website/blob/master/images/origin.gif?raw=true");
+  background-image: none;
      transform: translateZ(-1px) scale(2);
   z-index:-1;
   background-attachment: fixed;  
