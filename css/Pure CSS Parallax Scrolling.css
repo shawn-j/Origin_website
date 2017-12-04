@@ -68,13 +68,13 @@ p {
 }
 
 .slide:nth-child(2n) .title {
-  /*margin-left: 0;
-  margin-right: auto;*/
+  margin-left: 0;
+  margin-right: auto;
 }
 
 .slide:nth-child(2n+1) .title {
-  /*margin-left: auto;
-  margin-right: 0;*/
+  margin-left: auto;
+  margin-right: 0;
 }
 
 .slide, .slide:before {
